@@ -1,0 +1,9 @@
+#This Program is a list number of print statements for Python.
+
+print "Hello World!"
+print "Hello Again"
+print "I like typing this."
+print "This is fun."
+print 'Yay! Pringing'
+print "I'd much rather you  'not'."
+print 'I "said" do not touch this'
